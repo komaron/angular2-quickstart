@@ -2,8 +2,14 @@
 
 A very simple Angular app
 
-## Instal package dependencies:
+### Install package dependencies:
 
 ```bash
 $ npm install
+```
+
+### Run the app:
+
+```bash
+$ npm start
 ```
